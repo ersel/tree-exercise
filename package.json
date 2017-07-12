@@ -1,0 +1,17 @@
+{
+  "name": "TreeSum",
+  "version": "1.0.0",
+  "description": "SumTree Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc ava",
+    "lint": "eslint ."
+  },
+  "author": "Ersel Aker",
+  "license": "ISC",
+  "dependencies": {
+    "ava": "^0.20.0",
+    "eslint": "^4.2.0",
+    "nyc": "^11.0.3"
+  }
+}
